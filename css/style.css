@@ -1,0 +1,30 @@
+.gamezone {
+    width: 600px;
+    height: 600px;
+}
+
+td {
+    border: solid black 1px;
+    color: black;
+}
+
+tr {
+    border: solid black 1px;
+    color: black;
+}
+.dropzone {
+    margin-bottom: 50px;
+    color: white;
+    width: 600px;
+    height: 100px;
+}
+
+.dropzone td {
+    border: solid black 1px;
+}
+
+.dropzone td:hover{
+    background-color: red;
+    color: red;
+    cursor: pointer;
+}
